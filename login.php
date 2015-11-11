@@ -6,7 +6,7 @@
 	}
 	
 	if (isset($_POST['loginUser']) && isset($_POST['loginPassword'])) {
-		$con = new mysqli('sapphire', 'nblomfield', 'oR69754', 'nblomfield_dev');
+		$con = new mysqli('sapphire', 'nblomfield', 'password', 'nblomfield_dev');
 		if ($con->connect_errno) {
 			// Something went wrong with the connection.
 			echo "<p>Cannot connect to the database. Please try again later.</p>";
