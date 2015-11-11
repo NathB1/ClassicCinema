@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<orders>
+<order><delivery><name>Nathan</name><email>test@hotmail.com</email><address>test</address><city>test</city><postcode>9016</postcode></delivery><items><item><title>The Birds (1963)</title><price>14.99</price></item></items></order><order><delivery><name>test</name><email>test@hotmail.com</email><address>test</address><city>test</city><postcode>9016</postcode></delivery><items><item><title>The Birds (1963)</title><price>14.99</price></item></items></order></orders>
